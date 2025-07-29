@@ -1,0 +1,5 @@
+tener en cuenta las rutas de los archivos ../ 
+
+
+funcionando bien con servidor xammp en local host
+
