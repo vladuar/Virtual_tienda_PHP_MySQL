@@ -2,4 +2,4 @@ tener en cuenta las rutas de los archivos ../
 
 
 funcionando bien con servidor xammp en local host
-
+ para que funcione de manera local ingresar el codigo en C:\xampp\htdocs
